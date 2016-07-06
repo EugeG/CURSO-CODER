@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+    <html>
+        <section>
+        <meta charset="UTF-8">
+        <head>
+        <img> </img>
+        <nav> name="home" name="contact" </nav>
+        </head>
+        </section>
+        <input type="domain">
+        </input type="domain">
+ <section>
+ <img> </img>
+ <h5> Some text </h5>
+ <h5> A paragraph of text with an </h5>
+ <p> A second row of text with a <p>
+ <h5> Some text </h5>
+ <h5> A paragraph of text with an </h5>
+ <p> A second row of text with a <p>
+ <h5> Some text </h5>
+ <h5> A paragraph of text with an </h5>
+ <p> A second row of text with a <p>
+ <h5> Some text </h5>
+ <h5> A paragraph of text with an </h5>
+ <p> A second row of text with a <p>
+ <h5> Some text </h5>
+ <h5> A paragraph of text with an </h5>
+ <p> A second row of text with a <p>
+ </section>
+
+            <meta charset="UTF-8">
+            <title>Mi primer sitio web</title>
+        </head>
+        <body>
+            ¡Este es mi primer sitio web!
+        </body>
+    <section>
+    <footer>
+    <h5> Some text </h5>
+    <nav> name="home" name="contact" </nav>
+    </footer>
+    </section>
+    </html>
+
+
+
